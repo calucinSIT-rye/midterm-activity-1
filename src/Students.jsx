@@ -12,6 +12,7 @@ const Students = () => {
     { id: 7, name: 'Garcia, Antonio Miguel L.', major: 'Information Technology', year: '2nd Year', avatar: 'G' },
     { id: 8, name: 'Reyes, Sofia Isabella C.', major: 'Computer Science', year: '1st Year', avatar: 'R' },
     { id: 9, name: 'Torres, Carlos Eduardo M.', major: 'Information Technology', year: '2nd Year', avatar: 'T' },
+    { id: 10, name: 'Dela Cruz, Juan Carlos P.', major: 'Computer Science', year: '2nd Year', avatar: 'D' },
   ];
 
   return (

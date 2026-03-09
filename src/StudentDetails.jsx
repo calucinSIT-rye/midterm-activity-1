@@ -242,6 +242,33 @@ const StudentDetails = () => {
         { name: 'PATHFT2', grade: 'B+' },
         { name: 'ARTAPP1', grade: 'B' }
       ]
+    },
+    {
+      id: 10,
+      name: 'Dela Cruz, Juan Carlos P.',
+      age: 19,
+      major: 'Computer Science',
+      year: '2nd Year',
+      gpa: 3.5,
+      email: 'delacruz.juancarlos@university.edu',
+      bio: 'Second-year computer science student passionate about artificial intelligence and machine learning. Enjoys building innovative solutions and exploring cutting-edge technologies.',
+      skills: ['Python', 'Machine Learning', 'Data Structures', 'Algorithms', 'Java'],
+      hobbies: ['Coding Challenges', 'Reading Tech Blogs', 'Basketball', 'Music Production'],
+      achievements: [
+        'Programming Competition Finalist',
+        'AI Workshop Participant',
+        'Deans List (Semester 1)',
+        'Open Source Contributor'
+      ],
+      courses: [
+        { name: 'APTECH1', grade: 'A-' },
+        { name: 'DBMWEB1', grade: 'B+' },
+        { name: 'NETCOM1', grade: 'A' },
+        { name: 'PROGIT1', grade: 'A-' },
+        { name: 'NSTP2', grade: 'B+' },
+        { name: 'PATHFT2', grade: 'A' },
+        { name: 'ARTAPP1', grade: 'B+' }
+      ]
     }
   ];
 
