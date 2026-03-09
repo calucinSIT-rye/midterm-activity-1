@@ -4,6 +4,7 @@ import Home from './Home';
 import Students from './Students';
 import StudentDetails from './StudentDetails';
 import About from './About';
+import logo from './assets/LogoNiReign2.png';
 import './App.css';
 
 function App() {
@@ -34,7 +35,7 @@ function Header() {
     <header>
       <div className="header-content">
         <div className="logo">
-          Student<span>ToStalk</span>
+          <img src={logo} alt="LogoNiReign2" style={{ width: '120px', height: 'auto' }} />
         </div>
         <nav>
           <ul>
