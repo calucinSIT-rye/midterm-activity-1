@@ -5,6 +5,10 @@ import studentImg from './assets/StudentstoCampus.jpg';
 const Home = () => {
   return (
     <div className="container">
+      <div>
+        <h2>Welcome to Student Dashboard</h2>
+        <p>This app demonstrates React Router, useState, and useEffect.</p>
+      </div>
       <div className="home-banner">
         <img src={studentImg} alt="Students to Campus" />
       </div>
